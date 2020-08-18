@@ -1,6 +1,5 @@
 # django-docker
 
-
 Testando Django com Docker
 
 ## Este projeto foi feito com:
